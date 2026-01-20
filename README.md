@@ -1,3 +1,1 @@
-An evolving python basics and Excel-based repository designed to translate core investment return and performance concepts into practical, structured, and repeatable models. This project focuses on bridging theory and real-world portfolio analysis by organizing key calculations used in asset management, trading, and investment evaluation. As formulas are added, I will pick a few to create working examples with my own scenarios to better reinforce these concepts. 
-
-Built as a hands-on companion to ongoing capital markets and portfolio management studies, this toolkit will continue expanding as additional methodologies and applications are added.
+Basic excel formula repository to keep my self accountable and document gained and working knowledge. 
